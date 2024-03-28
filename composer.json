@@ -1,5 +1,5 @@
 {
-    "name": "league/omnipay",
+    "name": "vocongdanh/omnipay",
     "type": "metapackage",
     "description": "Omnipay payment processing library",
     "keywords": [
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8.1",
         "omnipay/common": "^3.1",
         "php-http/discovery": "^1.14",
         "php-http/guzzle7-adapter": "^1"
